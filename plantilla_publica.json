@@ -1,0 +1,50 @@
+{
+  "community_name": "",
+  "description": "",
+
+  "roles": [
+    {
+      "role_type": "",
+      "description": ""
+    },
+    {
+      "role_type": "",
+      "description": ""
+    },
+    {
+      "role_type": "",
+      "description": ""
+    }
+  ],
+
+  "categories": [
+    {
+      "category_type": "",
+      "description": "",
+      "allowed_roles": [""],
+      "channels": [
+        {
+          "channel_name": "",
+          "channel_type": ""
+        },
+        {
+          "channel_name": "",
+          "channel_type": ""
+        }
+      ]
+    },
+    {
+      "category_type": "",
+      "description": "",
+      "allowed_roles": [""],
+      "channels": [
+        {
+          "channel_name": "",
+          "channel_type": ""
+        }
+      ]
+    }
+  ],
+
+  "instructions": ""
+}
