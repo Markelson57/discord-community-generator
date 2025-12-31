@@ -42,7 +42,7 @@ discord-community-generator/
 1. Clona el repositorio:
 
 ```bash
-git clone https://github.com/tuusuario/discord-community-generator.git
+git clone https://github.com/Markelson57/discord-community-generator/tree/main
 cd discord-community-generator
 ```
 
